@@ -4,6 +4,13 @@ GestureFlow AI is a small Tkinter app that turns hand gestures from one webcam i
 
 ## Run in VS Code
 
+For a fresh checkout, run these commands in PowerShell.
+
+```powershell
+git clone https://github.com/Janith-alt/GestureFlow.git
+cd GestureFlow
+```
+
 1. Open this project folder in VS Code and install the Microsoft Python extension if needed. [VS Code Python setup](https://code.visualstudio.com/docs/python/python-tutorial)
 2. Open a PowerShell terminal in the project folder and run these commands to set up the environment. If you already set up `.venv` on this PC, skip to the next step.
 
