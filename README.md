@@ -54,6 +54,13 @@ Run the built-in example checks. They cover all seven gestures, an unrecognized 
 .\.venv\Scripts\python.exe gestures.py
 ```
 
+### Check the webcam and emergency stop
+
+1. Click **Start Camera**, check **Test mode (show actions only)**, and click **Enable Gesture Control**.
+2. Hold a thumbs-up until `Last test action: Volume up` appears.
+3. Press **F8** and confirm that `Gesture control: Disabled` and `Last test action: Emergency stop (F8)` appear.
+4. Click **Stop Camera** and wait for `Camera: Stopped`.
+
 ## Project files
 
 | File | Purpose |
