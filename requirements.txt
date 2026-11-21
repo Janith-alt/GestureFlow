@@ -1,0 +1,4 @@
+# MediaPipe uses the contrib build of OpenCV. It provides the cv2 module.
+mediapipe==0.10.32
+opencv-contrib-python==4.13.0.92
+PyAutoGUI==0.9.54
